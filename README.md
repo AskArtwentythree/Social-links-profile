@@ -23,7 +23,7 @@
 ### Links
 
 - Solution URL: [Solution](https://github.com/AskArtwentythree/Social-links-profile)
-- Live Site URL: [Live Site](https://blog-preview-card-one-sooty.vercel.app)
+- Live Site URL: [Live Site](https://social-links-profile-kappa-ten.vercel.app/)
 
 ## My process
 
@@ -48,5 +48,5 @@ I would like to improve myself in flexbox.
 
 ## Author
 
-- Website - [Blog preview card](https://blog-preview-card-one-sooty.vercel.app)
+- Website - [Social links profile](https://social-links-profile-kappa-ten.vercel.app/)
 - Frontend Mentor - [@AskArtwentythree](https://www.frontendmentor.io/profile/AskArtwentythree)
