@@ -1,0 +1,81 @@
+@font-face {
+  font-family: "Inter";
+  src: url("./assets/fonts/Inter-VariableFont_slnt\,wght.ttf") format("ttf");
+  font-weight: 100 900;
+  font-display: swap;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: hsl(0, 0%, 8%);
+  padding: 219px 528px 219px 528px;
+}
+
+.card {
+  padding: 40px;
+  font-family: "Inter";
+  border-radius: 8px;
+  background-color: hsl(0, 0%, 12%);
+  width: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.card__image {
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+  margin-bottom: 25px;
+}
+
+.card__name-person {
+  font-size: 23px;
+  font-weight: 600;
+  color: hsl(0, 0%, 100%);
+  margin-bottom: 8px;
+}
+
+.card__location {
+  font-size: 14px;
+  font-weight: 400;
+  color: hsl(75, 94%, 57%);
+  margin-bottom: 20px;
+}
+
+.card__role {
+  font-size: 14px;
+  color: hsl(0, 0%, 100%);
+  margin-bottom: 25px;
+}
+
+.social-media {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 15px;
+  width: 100%;
+}
+
+.social-media__button {
+  font-weight: 600;
+  border-radius: 8px;
+  color: hsl(0, 0%, 100%);
+  cursor: pointer;
+  background-color: hsl(0, 0%, 20%);
+  border: none;
+  padding: 15px 50px;
+  text-align: center;
+  font-family: "Inter";
+}
+
+.social-media__button:hover {
+  background-color: hsl(75, 94%, 57%);
+  color: hsl(0, 0%, 20%);
+}
